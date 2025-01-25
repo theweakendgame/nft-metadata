@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "TheWeakEnd Villagers",
+    "description": "TheWeakEnd Villagers is a collection NFTs that represent the residents of TheWeakEnd. Each NFT is a specialist villager and they are all hoping to survive The Weak End",
+    "image": "https://theweakendgame.github.io/nft-metadata/collection.webp",
+    "external_link": "https://sim-game.vercel.app/" 
 }

@@ -1,0 +1,26 @@
+{
+    "id": 2,
+    "image": "https://theweakendgame.github.io/nft-metadata/tokens/token2.webp",
+    "token_id": "speed-fishing-1",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Speedy Fishing level 1",
+    "description": "A villager in the TheWeakEnd who has learned to forage quickly",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Tag",
+        "value": "Fishing"
+      },
+      {
+        "trait_type": "Perk",
+        "value": "speedy"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 1
+      }
+    ]
+  }
