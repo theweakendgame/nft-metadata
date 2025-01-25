@@ -6,12 +6,12 @@
     "animation_url": null,
     "youtube_url": null,
     "name": "Speedy Fishing level 1",
-    "description": "A villager in the TheWeakEnd who has learned to forage quickly",
+    "description": "A villager in the TheWeakEnd who has learned to fish quickly",
     "external_url": null,
     "attributes": [
       {
         "trait_type": "Tag",
-        "value": "Fishing"
+        "value": "fishing"
       },
       {
         "trait_type": "Perk",
